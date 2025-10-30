@@ -3,3 +3,7 @@
 <%
 // include file2 jsp di classes 
 %>
+
+<%@ include file="config.jsp"%>
+<%@ include file="db.jsp"%>
+<%@ include file="user.jsp"%>
